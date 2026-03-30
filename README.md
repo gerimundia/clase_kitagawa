@@ -3,7 +3,7 @@ Colmex | Abril, 2026
 
 En este repositorio se encuentra el material de la sesión **Descomposición de Kitagawa I**. 
 
-* [Materiales (materiales)](Materiales)
+* [Materiales](Materiales)
 
 ---
 
