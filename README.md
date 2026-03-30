@@ -1,8 +1,10 @@
 # Descomposición de Kitagawa I
+Colmex | Abril, 2026
 
-Aquí se encuentra el material de la clase: Descomposición de Kitagawa I
+En este repositorio se encuentra el material de la sesión **Descomposición de Kitagawa I**. 
+
+* [Materiales (materiales)](Materiales)
 
 ---
-Adriana Robles
 
----
+[Adriana Robles](https://sites.google.com/view/adrianarobles/home?authuser=0)
